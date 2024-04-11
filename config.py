@@ -32,15 +32,15 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/MISHSINGH19/SHIV-V2",
+    "UPSTREAM_REPO", "https://github.com/Rajputshivsingh65/RITESH-V2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/meri_ashhiqui")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/meri_ashhiqui")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/II_DP_STORE_II")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/II_DP_STORE_II")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "3000"))
