@@ -1,7 +1,7 @@
 {
-    "name": "🌹⃝𖣔𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
+    "name": "🌹⃝𖣔𝐑𝐈𝐓𝐄𝐒𝐇 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/23c37f5114b9c4830e87e.png",
+    "logo": "https://telegra.ph/file/4ffc85992c7ae227d9332.png",
     "keywords": [
     "python3",
     "telegram",
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "𝐆𝐄𝐓 𝐀 𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐔𝐑𝐋 𝐅𝐑𝐎𝐌 https://cloud.mongodb.com. 𝐈𝐅 𝐘𝐎𝐔 𝐃𝐎𝐍𝐓 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄𝐍 𝐔𝐒𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐅𝐈𝐋𝐋𝐄𝐃 𝐌𝐎𝐍𝐆𝐎.",
-        "value": "mongodb+srv://s2lk:s2lk@cluster0.h2h9ia6.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://zewdatabase:ijoXgdmQ0NCyg9DO@zewgame.urb3i.mongodb.net/ontap?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
