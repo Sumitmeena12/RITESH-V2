@@ -20,7 +20,7 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 ʀɪᴛᴇsʜ ダ ᴍᴜsɪᴄ 」─
+    ─「 DRAGON ダ ᴍᴜsɪᴄ 」─
 </h2>
 
 <p align="center">
